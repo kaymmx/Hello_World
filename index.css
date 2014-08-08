@@ -46,6 +46,7 @@ footer {
 	text-align: center;
 	font-family: cursive;
 	font-size: 14px;
+	background-color: #ABFF59;
 }
 .sm {
 	width: 30px;
@@ -56,4 +57,7 @@ footer {
 }
 table {
 	width: 50%;
+}
+.flexible {
+	font-size: 22px;
 }
