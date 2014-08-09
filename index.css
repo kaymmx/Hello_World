@@ -56,8 +56,19 @@ footer {
 	font-size: 18px;
 }
 table {
-	width: 50%;
+	width: 60%;
 }
 .flexible {
 	font-size: 22px;
+}
+.contact_text {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+	height: 200px;
+	width: 300px;
+}
+.contact_map {
+	display: inline-block;
+	vertical-align: bottom;
 }
